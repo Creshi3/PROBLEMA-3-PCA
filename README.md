@@ -3,8 +3,11 @@
 #POTENCIA DE CONJUNTO
 
 La potencia de un conjunto, también conocida como conjunto potencia o conjunto de partes, es el conjunto de todos los subconjuntos posibles de un conjunto dado. Esto incluye tanto el conjunto vacío como el conjunto completo en sí mismo.
+
 Definición Formal
+
 Dado un conjunto S, la potencia del conjunto S, denotada como P(S) o 2S, es el conjunto de todos los subconjuntos de S. Si S tiene n elementos, la potencia del conjunto S tendrá 2n subconjuntos.
+
 Ejemplo
 Consideremos un conjunto S={1,2,3}.
 La potencia de S, P(S), incluye los siguientes subconjuntos:
