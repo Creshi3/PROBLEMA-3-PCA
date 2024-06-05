@@ -20,4 +20,5 @@ La potencia de S, P(S), incluye los siguientes subconjuntos:
     4. El conjunto completo: {1,2,3}
     
 Entonces, la potencia del conjunto S es:
+
 P(S)={{},{1},{2},{3},{1,2},{1,3},{2,3},{1,2,3}}
